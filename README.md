@@ -1,4 +1,4 @@
-# generator-azure-cli-modules [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-azure-cli-modules [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Azure-cli command module generator
 
 ## Installation
@@ -32,7 +32,5 @@ MIT © [pj3677]()
 [npm-url]: https://npmjs.org/package/generator-azure-cli-modules
 [travis-image]: https://travis-ci.org/pj3677/generator-azure-cli-modules.svg?branch=master
 [travis-url]: https://travis-ci.org/pj3677/generator-azure-cli-modules
-[daviddm-image]: https://david-dm.org/pj3677/generator-azure-cli-modules.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/pj3677/generator-azure-cli-modules
 [coveralls-image]: https://coveralls.io/repos/pj3677/generator-azure-cli-modules/badge.svg
 [coveralls-url]: https://coveralls.io/r/pj3677/generator-azure-cli-modules
