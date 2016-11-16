@@ -4,7 +4,7 @@
   "description": "Azure-cli command module generator",
   "author": {
     "name": "pj3677",
-    "url": ""
+    "url": "http://github.com/pj3677/yo-azurecli"
   },
   "files": [
     "generators"
@@ -45,7 +45,7 @@
       "mocha": true
     }
   },
-  "repository": "pj3677/generator-azure-cli-modules",
+  "repository": "pj3677/yo-azurecli",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
