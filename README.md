@@ -1,5 +1,5 @@
-# generator-azure-cli-modules [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Azure-cli command module generator
+# Yo Azure CLI [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+> azure-cli command module generator
 
 ## Installation
 
